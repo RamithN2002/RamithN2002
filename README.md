@@ -14,20 +14,13 @@ machine learning systems and AI-powered applications. Skilled in designing RESTf
 deployment of intelligent systems using LLMs and scalable backend architectures, Focused on building secure, fair, and
 user-centric products that solve real-world problems at scale.
 
+🧠 Currently working on **Generative AI, Prompt Engineering, and TensorFlow-based model development**, focusing on building real-world AI applications.
 
+💼 Previously worked on several academic projects during my Computer Science Engineering studies, gaining hands-on experience in software development and system design.
 
+📄 Learn more about my professional experience and projects: [🔗](http://surl.li/rwjrl)
 
-
-🧠 I'm currently Working on the GenAI , Prompting and Tensorflow model development
-
-📄 Know about my experiences[🔗](http://surl.li/rwjrl) 
-
-📫 How to reach me ramithn27@gmail.com
-
-
-
-
-
+📫 Reach me at: **ramithn27@gmail.com**
 
 ### Languages and Tools:
 
