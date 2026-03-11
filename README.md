@@ -9,13 +9,16 @@
 <h3 align="center">AI / ML Engineer | Generative AI | Prompt Engineering</h3>
 
 ## 🚀 About Me
-I'm an enthusiastic engineering student driven by curiosity, always ready to take on complex problems with innovative solutions. I am looking forward to apply my skills and contribute to groundbreaking projects and continuously learn and grow in the field of Computer Science & Engineering.
+A skilled AI/ML Engineer with a strong focus on Generative AI, with hands-on experience in building production-grade
+machine learning systems and AI-powered applications. Skilled in designing RESTful APIs using flask and FastAPI,
+deployment of intelligent systems using LLMs and scalable backend architectures, Focused on building secure, fair, and
+user-centric products that solve real-world problems at scale.
 
 
 
 
 
-🧠 I'm currently learning Python and Web Development.
+🧠 I'm currently Working on the GenAI , Prompting and Tensorflow model development
 
 📄 Know about my experiences[🔗](http://surl.li/rwjrl) 
 
