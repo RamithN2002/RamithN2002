@@ -1,8 +1,12 @@
 
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7]()
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramith-n-107916202/">
+    <img src="linkedin_banner.png" width="100%">
+  </a>
+</p>
 
 # Hi, I'm Ramith! <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=40>
-<h3 align="center">A Passionate Computer Science Engineering Student</h3>
+<h3 align="center">AI / ML Engineer | Generative AI</h3>
 
 ## 🚀 About Me
 I'm an enthusiastic engineering student driven by curiosity, always ready to take on complex problems with innovative solutions. I am looking forward to apply my skills and contribute to groundbreaking projects and continuously learn and grow in the field of Computer Science & Engineering.
