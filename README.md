@@ -29,12 +29,9 @@ I'm an enthusiastic engineering student driven by curiosity, always ready to tak
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivannirai&show_icons=true&locale=en&layout=compact" alt="RamithN2002" /></p>
 
 ### :earth_africa: Check out some of my projects  
-- [x] 👨‍🌾: **• AIMS - AGRICULTURE INFORMATION MANAGEMENT SYSTEM** - A Java Swing-based DBMS project enabling online access to agricultural information for 50+ users, integrating MySQL for efficient CRUD operations.[🔗](https://github.com/shivannirai/E-learning-Management-System)
+- [x] 👨‍🌾: **• AIMS - AGRICULTURE INFORMATION MANAGEMENT SYSTEM** - A Java Swing-based DBMS project enabling online access to agricultural information for 50+ users, integrating MySQL for efficient CRUD operations.[🔗]()
 
-- [x] 💊: **PILL REMINDER** - An Android app in Java with Firebase integration for medication adherence, featuring a robust reminder system with 50+ timely notifications. [🔗](https://github.com/shivannirai/RoutinizerApp)
-- [ ]  - [ ] 🔒 : **Trasform based techniques for Image Watermarking** - Developing a secure image watermarking system with imperceptible embedding and robust extraction capabilities, leveraging advanced encryption for applications like copyright protection and content authentication.
-
-
+- [x] 💊: **PILL REMINDER** - An Android app in Java with Firebase integration for medication adherence, featuring a robust reminder system with 50+ timely notifications. [🔗]()
 
 
 ## 🔗 Links
