@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramith-n-107916202/">
-    <img src="" width="100%">
+    <img src="Image.jpeg" width="100%">
   </a>
 </p>
 
