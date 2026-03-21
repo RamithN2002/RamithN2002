@@ -27,6 +27,8 @@ user-centric products that solve real-world problems at scale.
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,eclipse,firebase,mysql,vscode,html,css)](https://skillicons.dev)
 
 ### :earth_africa: Check out some of my projects  
+- [x] 🎙️: **LUCIVOX STUDIO** - A production-grade RAG application (luci=light, vox=voice) featuring Hybrid Search (Vector + BM25 + Query Expansion + RRF fusion), Selective Cross-Encoder reranking, Semantic Chunking, Contextual Chunk Headers, Conversation-Aware Retrieval, and Answer Grounding. Built with FastAPI + Next.js + ChromaDB + Ollama (llama3.1:8b), with JWT-based auth and per-user document isolation.
+
 - [x] 👨‍🌾: **• AIMS - AGRICULTURE INFORMATION MANAGEMENT SYSTEM** - A Java Swing-based DBMS project enabling online access to agricultural information for 50+ users, integrating MySQL for efficient CRUD operations.[🔗](https://github.com/RamithN2002/DBMSproject)
 
 - [x] 💊: **PILL REMINDER** - An Android app in Java with Firebase integration for medication adherence, featuring a robust reminder system with 50+ timely notifications. [🔗](https://github.com/RamithN2002/PILLREMINDER-MAD)
