@@ -104,5 +104,5 @@ An Android medication reminder app with Firebase integration, delivering 50+ tim
 ---
 
 <p align="center">
-  <i>"Building AI systems that don't just answer questions — they understand context."</i>
+  <i>"I don't predict the future. I imagine it into existence."</i>
 </p>
