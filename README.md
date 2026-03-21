@@ -14,9 +14,6 @@
   <a href="mailto:ramithn27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://surl.li/rwjrl">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -45,7 +42,7 @@ I'm an **AI/ML Engineer** specializing in **Generative AI** and **production-gra
 ![RAG](https://img.shields.io/badge/RAG_Systems-6366f1?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Backend **
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
