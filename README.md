@@ -98,7 +98,7 @@ An Android medication reminder app with Firebase integration, delivering 50+ tim
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamithN2002&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=RamithN&label=Profile%20Views&color=6366f1&style=for-the-badge" />
 </p>
 
 <p align="center">
