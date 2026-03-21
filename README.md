@@ -1,44 +1,108 @@
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ramith-n-107916202/">
-    <img src="Image.jpeg" width="100%">
+    <img src="Image.jpeg" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
-# Hi, I'm Ramith! 👋
-<h3 align="center">AI / ML Engineer | Generative AI | Prompt Engineering</h3>
+<h1 align="center">Hi, I'm Ramith 👋</h1>
+<h3 align="center">AI / ML Engineer · Generative AI · RAG Systems · LLM Applications</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramith-n-107916202/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ramithn27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://surl.li/rwjrl">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🚀 About Me
-A skilled AI/ML Engineer with a strong focus on Generative AI, with hands-on experience in building production-grade
-machine learning systems and AI-powered applications. Skilled in designing RESTful APIs using flask and FastAPI,
-deployment of intelligent systems using LLMs and scalable backend architectures, Focused on building secure, fair, and
-user-centric products that solve real-world problems at scale.
 
-🧠 Currently working on **Generative AI, Prompt Engineering, and TensorFlow-based model development**, focusing on building real-world AI applications.
+I'm an **AI/ML Engineer** specializing in **Generative AI** and **production-grade RAG (Retrieval-Augmented Generation) systems**. I build intelligent, LLM-powered applications from the ground up — from vector search pipelines and hybrid retrieval strategies to secure, scalable backend architectures.
 
-💼 Previously worked on several academic projects during my Computer Science Engineering studies, gaining hands-on experience in software development and system design.
+- 🔭 Currently building **Lucivox Studio** — a full-stack RAG platform with Hybrid Search, Cross-Encoder reranking, Semantic Chunking, and Conversation-Aware Retrieval
+- 🤖 Deep experience with **Ollama, LangChain, LangGraph, ChromaDB, FastAPI, and Next.js**
+- 🧠 Passionate about **RAG architecture, Agentic AI systems, Prompt Engineering, and LLM fine-tuning**
+- 🎯 Focused on building AI products that are **accurate, fast, and production-ready**
+- 📫 Reach me at: **ramithn27@gmail.com**
 
-📄 Learn more about my professional experience and projects: [🔗](http://surl.li/rwjrl)
+---
 
-📫 Reach me at: **ramithn27@gmail.com**
+## 🛠️ Tech Stack
 
-### Languages and Tools:
+**AI / ML**
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,docker,git,tensorflow,vscode)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366f1?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-6366f1?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### :earth_africa: Check out some of my projects  
-- [x] 🎙️: **LUCIVOX STUDIO** - A production-grade RAG application (luci=light, vox=voice) featuring Hybrid Search (Vector + BM25 + Query Expansion + RRF fusion), Selective Cross-Encoder reranking, Semantic Chunking, Contextual Chunk Headers, Conversation-Aware Retrieval, and Answer Grounding. Built with FastAPI + Next.js + ChromaDB + Ollama (llama3.1:8b), with JWT-based auth and per-user document isolation.[🔗](https://github.com/RamithN2002/LucivoxStudio-VoiceOfLight)
+**Backend **
 
-- [x] 👨‍🌾: **• AIMS - AGRICULTURE INFORMATION MANAGEMENT SYSTEM** - A Java Swing-based DBMS project enabling online access to agricultural information for 50+ users, integrating MySQL for efficient CRUD operations.[🔗](https://github.com/RamithN2002/DBMSproject)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- [x] 💊: **PILL REMINDER** - An Android app in Java with Firebase integration for medication adherence, featuring a robust reminder system with 50+ timely notifications. [🔗](https://github.com/RamithN2002/PILLREMINDER-MAD)
+**DevOps & Tools**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramith-n-107916202/)
+---
+
+## 🧩 Featured Projects
+
+### 🎙️ [Lucivox Studio — Voice of Light](https://github.com/RamithN2002/LucivoxStudio-VoiceOfLight)
+> *Production-grade RAG Application | FastAPI · Next.js · ChromaDB · Ollama*
+
+A full-stack RAG platform built from scratch with advanced retrieval techniques that go far beyond basic vector search.
+
+**Key Features:**
+- 🔍 **Hybrid Search** — Vector + BM25 + Query Expansion fused with RRF (Reciprocal Rank Fusion)
+- 🎯 **Selective Cross-Encoder Reranking** — precision reranking on top retrieval candidates
+- ✂️ **Semantic Chunking** — intelligent document splitting based on meaning, not just token count
+- 🧠 **Conversation-Aware Retrieval** — query rewriting + retrieval memory across chat turns
+- 📌 **Contextual Chunk Headers** — every chunk carries document-level context
+- ✅ **Answer Grounding Check** — validates LLM responses against retrieved sources
+- 🔐 **JWT Auth + Per-User Document Isolation** — secure multi-user architecture
+
+---
+
+### 👨‍🌾 [AIMS — Agriculture Information Management System](https://github.com/RamithN2002/DBMSproject)
+> *Java Swing · MySQL · DBMS*
+
+A Java Swing desktop application enabling online access to agricultural information for 50+ users, with full CRUD operations powered by MySQL.
+
+---
+
+### 💊 [Pill Reminder](https://github.com/RamithN2002/PILLREMINDER-MAD)
+> *Android · Java · Firebase*
+
+An Android medication reminder app with Firebase integration, delivering 50+ timely notifications to improve medication adherence.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamithN2002&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamithN2002&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamithN2002&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building AI systems that don't just answer questions — they understand context."</i>
+</p>
