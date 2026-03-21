@@ -90,8 +90,7 @@ An Android medication reminder app with Firebase integration, delivering 50+ tim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamithN2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamithN2002&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamithN2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" />
 </p>
 
 <p align="center">
