@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Hi, I'm Ramith! <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=40>
+# Hi, I'm Ramith! 👋
 <h3 align="center">AI / ML Engineer | Generative AI | Prompt Engineering</h3>
 
 ## 🚀 About Me
@@ -25,8 +25,7 @@ user-centric products that solve real-world problems at scale.
 ### Languages and Tools:
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,linux,docker,git,tensorflow,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,docker,git,tensorflow,vscode)](https://skillicons.dev)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
