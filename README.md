@@ -24,7 +24,14 @@ user-centric products that solve real-world problems at scale.
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,eclipse,firebase,mysql,vscode,html,css)](https://skillicons.dev)
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,linux,docker,git,tensorflow,vscode)](https://skillicons.dev)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366f1?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### :earth_africa: Check out some of my projects  
 - [x] 🎙️: **LUCIVOX STUDIO** - A production-grade RAG application (luci=light, vox=voice) featuring Hybrid Search (Vector + BM25 + Query Expansion + RRF fusion), Selective Cross-Encoder reranking, Semantic Chunking, Contextual Chunk Headers, Conversation-Aware Retrieval, and Answer Grounding. Built with FastAPI + Next.js + ChromaDB + Ollama (llama3.1:8b), with JWT-based auth and per-user document isolation.[🔗](https://github.com/RamithN2002/LucivoxStudio-VoiceOfLight)
