@@ -94,11 +94,11 @@ An Android medication reminder app with Firebase integration, delivering 50+ tim
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamithN2002&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamithN2002&theme=tokyo-night&hide_border=true&custom_title=Ramith's%20Contribution%20Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamithN&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=RamithN2002&label=Profile%20Views&color=6366f1&style=for-the-badge" />
 </p>
 
 <p align="center">
