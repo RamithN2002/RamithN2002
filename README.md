@@ -104,5 +104,5 @@ An Android medication reminder app with Firebase integration, delivering 50+ tim
 ---
 
 <p align="center">
-  <i>"I don't predict the future. I imagine it into existence."</i>
+  <i>"Models predict. I build what generates."</i>
 </p>
